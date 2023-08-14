@@ -5,3 +5,4 @@ A web app built with Streamlit and Python programming which allows the explorati
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftahsinjahinkhalid%2Fdeveloper-salary-prediction-web-app&labelColor=%232ccce4&countColor=%23d9e3f0)
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://developer-salary-prediction-web-app-tahsinjahinkhalid.streamlit.app/)
